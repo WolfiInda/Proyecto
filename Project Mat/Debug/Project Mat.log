@@ -1,0 +1,6 @@
+﻿  Nodo.cpp
+c:\users\angel inda\source\repos\project mat\project mat\nodo.cpp(9): warning C4018: '<': no coinciden signed/unsigned
+c:\users\angel inda\source\repos\project mat\project mat\nodo.cpp(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\angel inda\source\repos\project mat\project mat\nodo.cpp(81): warning C4018: '<': no coinciden signed/unsigned
+c:\users\angel inda\source\repos\project mat\project mat\nodo.cpp(103): warning C4018: '<': no coinciden signed/unsigned
+  Project Mat.vcxproj -> C:\Users\ANGEL INDA\source\repos\Project Mat\Debug\Project Mat.exe
